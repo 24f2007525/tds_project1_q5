@@ -1,0 +1,7 @@
+{
+  "prompt": "A cinematic wide-angle photograph at night. In the immediate dark foreground, a young child sits on a woven mat near a small, flickering campfire. The child is sitting cross-legged, leaning slightly back with their head tilted fully upward, gazing in wonder at a clear, deep indigo sky with crisp, twinkling stars. The surrounding environment is a lived-in shanty settlement with silhouettes of clotheslines, stacked water jugs, and narrow dirt paths winding between weathered shacks. A few other dim, warm orange glows from distant cooking fires are scattered in the darkness. In the massive background, across a wide, dark 'no-man's-land' gap, is a sprawling, overexposed metropolis. In the high-rise windows, children are hunched over, their faces lit by the blue glow of tablets. The lighting is a stark contrast between the warm, organic firelight of the foreground and the harsh, artificial neon of the background city. High dynamic range, filmic texture.",
+  "model": "Imagen 3 (via Google AI Studio)",
+  "dataset_name": "World Bank - Population living in slums (% of urban population)",
+  "dataset_url": "https://data.worldbank.org/indicator/EN.POP.SLUM.UR.ZS",
+  "insight": "By spatializing the demographic split of urban inequality, the image visualizes how systemic segregation manifests as a contrast between shared celestial wonder and isolated digital consumption."
+}
